@@ -10,6 +10,5 @@
 
 <div align="center">
 <a href="https://imdb-api.com/">
-  <img width="600" src="https://user-images.githubusercontent.com/64509839/180633552-3250ec52-33d5-4502-81cd-f67051f7fd59.png" />
-  <img width="600" src="https://user-images.githubusercontent.com/64509839/180633557-3e8c9bfe-3e6f-4425-8308-a8d76123d0e5.png" />
+  <img width="600" src="https://user-images.githubusercontent.com/64509839/180633686-76b2fd70-0435-4bac-b0c5-febe2b65c42e.png" />
 </div>
