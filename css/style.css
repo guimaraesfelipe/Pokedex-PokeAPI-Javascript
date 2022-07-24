@@ -47,6 +47,23 @@ main {
   text-transform: capitalize;
 }
 
+.pokemon__types {
+  position: absolute;
+  font-weight: 700;
+  color: #3a444d;
+  top: 24%;
+  right: 27%;
+  font-size: clamp(7px, 5vw, 13px);
+}
+
+.pokemon__type1 {
+    text-transform: capitalize;
+}
+
+.pokemon__type2 {
+    text-transform: capitalize;
+}
+
 .form {
   position: absolute;
   width: 65%;
